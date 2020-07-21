@@ -1,5 +1,4 @@
 # :computer: omnistack11
-______________________________________________
 
 Projeto desenvolvido na semana de desenvolvimento realizada pela Rocketseat.
 Foi desenvolvida uma API para criação de post de ajuda para ongs, um site com 
@@ -7,7 +6,6 @@ conexão com a API para cadastro de ongs e realização de post e um app com con
 com a API para que qualquer um possa ajudar uma ong cadastrada.
 
 ## :rocket: Técnologias Utilizadas
-__________________________
 
 - [x] Node.js (O Coração de todo o projeto)
 - [x] Express (Criação da API)
